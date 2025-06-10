@@ -1,0 +1,7 @@
+gradio
+transformers
+pandas
+matplotlib
+torch # If you encounter issues with torch on Spaces, try tensorflow instead
+spacy
+tabulate
